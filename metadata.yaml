@@ -5,6 +5,9 @@ contributor:
     agent_name: Davisson, Virginia H.
     gutenberg_agent_id: '56470'
     url: http://www.gutenberg.org/2009/agents/56470
+covers:
+- cover_type: archival
+  image_path: 71952-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Stephens, Charles H.
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: https://en.wikipedia.org/wiki/Frank_R._Stockton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71952#The-young-master-of-Hyson-Hall
 gutenberg_issued: '2023-10-24'
 identifiers:
   gutenberg: '71952'
